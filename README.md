@@ -8,7 +8,7 @@ Each version implements a more complex version of the shader:
 - V1: Implements back translucency
 - V2: Adds subsurface distortion
 - V3: Uses a local thickness map
-- V4: Implemented with the unity global illumination model, and uses the bloom filter
+- V4: Implemented with the unity PBS system, and uses the bloom filter
 
 This shader is informed Alan Zucconi's tutorial: https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/
 
